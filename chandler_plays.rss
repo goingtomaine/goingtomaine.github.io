@@ -17,7 +17,7 @@
 			<url>https://upload.wikimedia.org/wikipedia/en/b/bc/RaymondChandlerPromoPhoto.jpg</url>
 			<title>Raymond Chandler</title>
 			<link>https://archive.org/details/ClassicChandler</link>
-			<description>A handcrafter RSS feed by G. T. Maine</description>
+			<description>A handcrafted RSS feed by G. T. Maine</description>
 		</image>
 
     <itunes:author>Raymond Chandler</itunes:author>
@@ -27,7 +27,7 @@
     	<itunes:name>Going T. Maine</itunes:name>
     	<itunes:email>goingtomaine@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://en.wikipedia.org/wiki/Raymond_Chandler#/media/File:RaymondChandlerPromoPhoto.jpg" />
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/en/b/bc/RaymondChandlerPromoPhoto.jpg" />
     <itunes:category text="Mystery"/>
     <itunes:category text="Radio"/>
 
