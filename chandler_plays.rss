@@ -23,6 +23,15 @@
     <itunes:author>Raymond Chandler</itunes:author>
     <itunes:subtitle>BBC Radio 4 dramatisations of the Philip Marlowe novels, starring Toby Stephens</itunes:subtitle>
     <itunes:summary>BBC Radio 4 dramatisations of all the Raymond Chandler Philip Marlowe novels, with Toby Stephens playing Philip Marlowe.</itunes:summary>
+    <itunes:owner>
+    	<itunes:name>Going T. Maine</itunes:name>
+    	<itunes:email>goingtomaine@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://en.wikipedia.org/wiki/Raymond_Chandler#/media/File:RaymondChandlerPromoPhoto.jpg" />
+    <itunes:category text="Mystery"/>
+    <itunes:category text="Radio"/>
+
+</itunes:category>
 
     <item>
         <title>Poodle Springs</title>
@@ -31,7 +40,9 @@
         <description>Fresh from his honeymoon with heiress Linda Loring, Philip Marlowe has set up shop in the upmarket Californian town of Poodle Springs. But the life of a kept man soon loses its charm, and when he's asked to find a gambler on the run from his debts, Marlowe can't resist. Toby Stephens plays iconic detective Philip Marlowe.</description>
         <enclosure url="https://archive.org/download/ClassicChandler/08%20Poodle%20Springs.mp3" length="54380800" type="audio/mpeg"/>
         <category>Podcasts</category>
-        <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Feb 2016 00:08:00 +0000</pubDate>
+        <itunes:order>8</itunes:order>
+        <itunes:duration>56:36</itunes:duration>
         <itunes:author>Robin Brooks</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>Fresh from his honeymoon with heiress Linda Loring, Philip Marlowe has set up shop in the upmarket Californian town of Poodle Springs. But the life of a kept man soon loses its charm, and when he's asked to find a gambler on the run from his debts, Marlowe can't resist. Toby Stephens plays iconic detective Philip Marlowe.</itunes:subtitle>
@@ -45,7 +56,9 @@
         <description>Marlowe is hired to tail the mysterious Betty Mayfield all the way to the seaside town of Esmerelda, without knowing why or the identity of his employer. It's not long before he realises that he's not the only one on the trail, and that he too is being watched. Toby Stephens plays Philip Marlowe in a landmark series bringing all of Raymond Chandler's Philip Marlowe novels to Radio 4.</description>
         <enclosure url="https://archive.org/download/ClassicChandler/04%20Playback.mp3" length="54197947" type="audio/mpeg"/>
         <category>Podcasts</category>
-        <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Feb 2016 00:07:00 +0000</pubDate>
+        <itunes:order>7</itunes:order>
+        <itunes:duration>56:27</itunes:duration>
         <itunes:author>Stephen Wyatt</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>Marlowe is hired to tail the mysterious Betty Mayfield all the way to the seaside town of Esmerelda, without knowing why or the identity of his employer. It's not long before he realises that he's not the only one on the trail, and that he too is being watched. Toby Stephens plays Philip Marlowe in a landmark series bringing all of Raymond Chandler's Philip Marlowe novels to Radio 4.</itunes:subtitle>
@@ -59,7 +72,9 @@
         <description>Toby Stephens is back as Raymond Chandler's fast-talking private eye Philip Marlowe.This is California in the 50's, as beautiful as a ripe fruit and rotten to the core, reflecting all the tarnished glitter of the American Dream. Outside a club on Sunset Boulevard Marlowe meets a drunk named Terry Lennox, a man with scars on one side of his face. They forge an uneasy friendship but everything changes when Lennox shows up late one night, asking for a favour.</description>
         <enclosure url="https://archive.org/download/ClassicChandler/05%20The%20Long%20Goodbye.mp3" length="83517312" type="audio/mpeg"/>
         <category>Podcasts</category>
-        <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Feb 2016 00:06:00 +0000</pubDate>
+        <itunes:order>6</itunes:order>
+        <itunes:duration>1:26:57</itunes:duration>
         <itunes:author>Claire Grove</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>Toby Stephens is back as Raymond Chandler's fast-talking private eye Philip Marlowe.This is California in the 50's, as beautiful as a ripe fruit and rotten to the core, reflecting all the tarnished glitter of the American Dream. Outside a club on Sunset Boulevard Marlowe meets a drunk named Terry Lennox, a man with scars on one side of his face. They forge an uneasy friendship but everything changes when Lennox shows up late one night, asking for a favour.</itunes:subtitle>
@@ -73,7 +88,9 @@
         <description>A small, neat girl walks into Philip Marlowe's office. Orfamay Quest is looking for her brother Orrin. She gives Marlowe twenty dollars and lots of moral disapproval. Marlowe takes the case and finds himself drawn into the glamorous world of the Hollywood film studios. Toby Stephens plays Philip Marlowe in a landmark series bringing all Raymond Chandler's Marlowe novels to Radio 4.</description>
         <enclosure url="https://archive.org/download/ClassicChandler/07%20The%20Little%20Sister.mp3" length="83406187" type="audio/mpeg"/>
         <category>Podcasts</category>
-        <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Feb 2016 00:05:00 +0000</pubDate>
+        <itunes:order>5</itunes:order>
+        <itunes:duration>1:26:53</itunes:duration>
         <itunes:author>Claire Grove</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>A small, neat girl walks into Philip Marlowe's office. Orfamay Quest is looking for her brother Orrin. She gives Marlowe twenty dollars and lots of moral disapproval. Marlowe takes the case and finds himself drawn into the glamorous world of the Hollywood film studios. Toby Stephens plays Philip Marlowe in a landmark series bringing all Raymond Chandler's Marlowe novels to Radio 4.</itunes:subtitle>
@@ -87,7 +104,9 @@
         <description>Derace Kingsley, a wealthy businessman, hires Marlowe to find his estranged wife Crystal. Kingsley fears that rich, reckless Crystal may have got herself into a scandal and the last place she was known to have been was a resort called Little Fawn Lake. Toby Stephens plays Philip Marlowe in a landmark series bringing all Raymond Chandler's Philip Marlowe novels to Radio 4.</description>
         <enclosure url="http://archive.org/download/ClassicChandler/02%20The%20Lady%20in%20the%20Lake.mp3" length="83406187" type="audio/mpeg"/>
         <category>Podcasts</category>
-        <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Feb 2016 00:04:00 +0000</pubDate>
+        <itunes:order>4</itunes:order>
+        <itunes:duration>1:26:52</itunes:duration>
         <itunes:author>Stephen Wyatt</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>Derace Kingsley, a wealthy businessman, hires Marlowe to find his estranged wife Crystal. Kingsley fears that rich, reckless Crystal may have got herself into a scandal and the last place she was known to have been was a resort called Little Fawn Lake. Toby Stephens plays Philip Marlowe in a landmark series bringing all Raymond Chandler's Philip Marlowe novels to Radio 4.</itunes:subtitle>
@@ -101,7 +120,9 @@
         <description>When rare gold coin is stolen from her collection, Mrs Murdoch hires private eye Philip Marlowe to find it. The tough matriarch is convinced about the identity of the thief, but Marlowe's own enquiries lead him elsewhere. He's soon caught in the crossfire of a family at war with itself.</description>
         <enclosure url="https://archive.org/download/ClassicChandler/06%20The%20High%20Window.mp3" length="83365760" type="audio/mpeg"/>
         <category>Podcasts</category>
-        <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Feb 2016 00:03:00 +0000</pubDate>
+        <itunes:order>3</itunes:order>
+        <itunes:duration>1:26:48</itunes:duration>
         <itunes:author>Claire Grove</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>When rare gold coin is stolen from her collection, Mrs Murdoch hires private eye Philip Marlowe to find it. The tough matriarch is convinced about the identity of the thief, but Marlowe's own enquiries lead him elsewhere. He's soon caught in the crossfire of a family at war with itself.</itunes:subtitle>
@@ -115,7 +136,9 @@
         <description>When Philip Marlowe sees a huge, loudly dressed man casually throwing a bouncer out onto the the pavement as he goes into a bar, he knows it's time to walk away, so he follows him inside. The big guy is Moose Molloy, recently released from an eight year prison sentence and now on the hunt for his old sweetheart, a red-haired nightclub singer named Velma Valento. Marlowe follows a trail which includes a stick-up, blackmail, an irresistible blonde, a psychic, drugs and murder, and it leads him all the way to the top of a corrupt state of California.</description>
         <enclosure url="https://archive.org/download/ClassicChandler/03%20Farewell%20My%20Lovely.mp3" length="83059998" type="audio/mpeg"/>
         <category>Podcasts</category>
-        <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Feb 2016 00:02:00 +0000</pubDate>
+        <itunes:order>2</itunes:order>
+        <itunes:duration>1:26:30</itunes:duration>
         <itunes:author>Robin Brooks</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>When Philip Marlowe sees a huge, loudly dressed man casually throwing a bouncer out onto the the pavement as he goes into a bar, he knows it's time to walk away, so he follows him inside. The big guy is Moose Molloy, recently released from an eight year prison sentence and now on the hunt for his old sweetheart, a red-haired nightclub singer named Velma Valento. Marlowe follows a trail which includes a stick-up, blackmail, an irresistible blonde, a psychic, drugs and murder, and it leads him all the way to the top of a corrupt state of California.</itunes:subtitle>
@@ -129,7 +152,9 @@
         <description>In 1939 Raymond Chandler created a different kind of detective, the fast-talking, trouble seeking Californian private eye Philip Marlowe, for his great novel The Big Sleep. Marlowe's entanglement with the Sternwood family - respectable sister with gambling addiction, younger sister with drink/drug problem and an attendant cast of colourful underworld figures - is enshrined in the iconic film version with Humphrey Bogart and Lauren Bacall. Toby Stephens plays Philip Marlowe in a landmark series bringing all Chandler's ground breaking Philip Marlowe novels to Radio 4</description>
         <enclosure url="http://archive.org/download/ClassicChandler/01%20The%20Big%20Sleep.mp3" length="83303368" type="audio/mpeg"/>
         <category>Podcasts</category>
-        <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 07 Feb 2016 00:01:00 +0000</pubDate>
+        <itunes:order>1</itunes:order>
+        <itunes:duration>1:26:46</itunes:duration>
         <itunes:author>Robin Brooks</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>In 1939 Raymond Chandler created a different kind of detective, the fast-talking, trouble seeking Californian private eye Philip Marlowe, for his great novel The Big Sleep. Marlowe's entanglement with the Sternwood family - respectable sister with gambling addiction, younger sister with drink/drug problem and an attendant cast of colourful underworld figures - is enshrined in the iconic film version with Humphrey Bogart and Lauren Bacall. Toby Stephens plays Philip Marlowe in a landmark series bringing all Chandler's ground breaking Philip Marlowe novels to Radio 4</itunes:subtitle>
